@@ -1,0 +1,18 @@
+.img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 150px;
+}
+
+.card-img-top{
+    border: 1px solid #ddd;
+    border-radius: 1px;
+    width: 350px;
+    height: 350px;
+    
+}
+..img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 150px;
+}
